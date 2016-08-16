@@ -1,0 +1,22 @@
+{
+  "name": "node_tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aimeerosato/deployTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aimeerosato/deployTest/issues"
+  },
+  "homepage": "https://github.com/aimeerosato/deployTest#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
